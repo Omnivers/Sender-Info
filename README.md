@@ -11,4 +11,4 @@ Back :
 Diagram :
 
    ../Sender.jpg
-   (https://github.com/Omnivers/Sender-Info/Sender.jpg)
+   (https://github.com/Omnivers/Sender-Info/blob/main/Sender.jpg)
